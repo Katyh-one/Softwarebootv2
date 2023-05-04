@@ -1,1 +1,3 @@
 Merge conflict occurs when code is different on the same line of code when two people are trying to merge
+
+Computer has written something here
