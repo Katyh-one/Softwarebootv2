@@ -1,0 +1,11 @@
+Create a branch > git branch <branchname> when doing this you want to be on the branch you want to branch off of
+
+Change to that branch > git checkout <branchname>
+
+make changes in your local repo - add > commit > push to the branch
+
+If changes are ok, change to the branch you want to merge into, then do git merge <branchname> this it the branch you want to pull in
+
+e.g if you're in main - git merge Feature would merge the feature into the main branch
+
+Follow with git push to push the changes to the repo
